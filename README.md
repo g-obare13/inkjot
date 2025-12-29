@@ -42,7 +42,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ### 2. Clone the Repository
 ```sh
-git clone <YOUR_GIT_URL>
+git clone https://github.com/g-obare13/inkjot.git
 cd inkjot
 
 ```
