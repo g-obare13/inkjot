@@ -5,7 +5,7 @@ A lightweight, personal note-taking application designed for those who want a si
 ## Preview
 | Application UI | Gemini AI Integration |
 |---|---|
-| ![Inkjot UI Preview](/one.jpeg) | ![Gemini AI Features](/gemini.jpeg) |
+| ![Inkjot UI Preview](./public/one.jpeg) | ![Gemini AI Features](./public/gemini.jpeg) |
 
 ## Why I Built This
 I created this app because I wanted a dedicated space to manage my notes and lists for my own use without paying for monthly subscriptions. It serves as a functional tool for my daily life and a practical way to sharpen my coding skills. 
